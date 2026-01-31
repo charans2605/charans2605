@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi 👋, I'm S Charan Kumar  
+# Hi, I'm S Charan Kumar  
 
 🎓 B.E. Computer Science (2021–2025)  
 📍 Bangalore, India  
